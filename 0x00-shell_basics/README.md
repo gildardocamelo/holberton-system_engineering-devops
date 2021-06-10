@@ -1,5 +1,6 @@
 #SCRIPT'S LIST
 
+*
 #PART 1 - BASIC \
 a. 0-current_working_directory \
 b. 1-listit \
@@ -20,7 +21,7 @@ o. 14-copy_html
 
 #PART 2 - ADVANCED \
 a. 100-lets_move 
-
+*
 
 
  
