@@ -1,7 +1,7 @@
 #SCRIPT'S LIST
 
-#PART 1 - BASIC
-a. 0-current_working_directory
+#PART 1 - BASIC \n
+a. 0-current_working_directory\
 b. 1-listit
 c. 2-bring_me_home
 d. 3-listfiles
