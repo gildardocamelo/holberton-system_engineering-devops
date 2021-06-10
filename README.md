@@ -1,2 +1,2 @@
 # holberton-system_engineering-devops
-This repository contains scripts from week zero (0)
+*this repository contains basic scripts to learn to navigate and program within bash 
