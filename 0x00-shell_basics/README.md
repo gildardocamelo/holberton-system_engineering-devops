@@ -15,11 +15,11 @@ k. 10-back \
 l. 11-lists \
 m. 12-file_type \
 n. 13-symbolic_link \
-o. 14-copy_html \
+o. 14-copy_html 
 
 
 #PART 2 - ADVANCED \
-a. 100-lets_move \
+a. 100-lets_move 
 
 
 
