@@ -1,6 +1,6 @@
 # holberton-system_engineering-devops
 
-This README.md is a file that lists folders with exercises in bash console commands and basic programming. 
+This <README.md> is a file that lists basic scripted directories in bash console.  
 
 ##File list
 
