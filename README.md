@@ -9,5 +9,7 @@ This <README.md> is a file that lists basic script directories in bash console.
 
 ## Description :page_facing_up:
 
-1. 0x00-shell_basics ```Contains basic shell command scripts.permissions ```
+1. 0x00-shell_basics ```Contains basic shell command scripts.```
 2. 0x01-shell_permissions ```Contains scripts that grant permissions to directories and files within the shell.```
+
+> Full Stack Software Engineering - Holberton School
