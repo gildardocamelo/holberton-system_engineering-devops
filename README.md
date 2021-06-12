@@ -2,7 +2,7 @@
 
 This <README.md> is a file that lists basic scripted directories in bash console.  
 
-## File list :books:
+## Directory list :books:
 
 1. 0x00-shell_basics
 2. 0x01-shell_permissions
