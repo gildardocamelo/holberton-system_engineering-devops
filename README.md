@@ -1,6 +1,6 @@
 # holberton-system_engineering-devops
 
-This <README.md> is a file that lists basic scripted directories in bash console.  
+This <README.md> is a file that lists basic script directories in bash console.  
 
 ## Directory list :books:
 
