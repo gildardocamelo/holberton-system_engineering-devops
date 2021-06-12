@@ -33,7 +33,7 @@ This <README.md> is a file that lists executables files with basic shell command
 
 ## Description :page_facing_up:
 
-### Basic script :sunglasses:
+### Basic script :monocle_face:
 
 * 0-current_working_directory ```Returns the directory where I am standing.``` 
 * 1-listit 
@@ -59,8 +59,7 @@ This <README.md> is a file that lists executables files with basic shell command
 * 103-commas
 * 104-holberton.mgc
 
-
-
+\n\n
 > Full Stack Software Engineering - Holberton School 
 
  
