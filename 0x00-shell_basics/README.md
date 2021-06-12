@@ -59,7 +59,7 @@ This <README.md> is a file that lists executables files with basic shell command
 * 103-commas
 * 104-holberton.mgc
 
-\n\n
-> Full Stack Software Engineering - Holberton School 
-
+<center>
+> Full Stack Software Engineering - Holberton School
+</center>
  
