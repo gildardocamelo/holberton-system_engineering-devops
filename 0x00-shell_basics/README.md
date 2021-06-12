@@ -4,60 +4,60 @@ This <README.md> is a file that lists executables files with basic shell command
 
 ## Directory list :books:
 
-### Basic script
+### Basic script :monocle_face:
 
-1. 0-current_working_directory 
-2. 1-listit 
-3. 2-bring_me_home 
-4. 3-listfiles 
-5. 4-listmorefiles 
-6. 5-listfilesdigitonly 
-7. 6-firstdirectory 
-8. 7-movethatfile 
-9. 8-firstdelete 
-10. 9-firstdirdeletion 
-11. 10-back 
-12. 11-lists 
-13. 12-file_type 
-14. 13-symbolic_link 
-15. 14-copy_html 
+* 0-current_working_directory 
+* 1-listit 
+* 2-bring_me_home 
+* 3-listfiles 
+* 4-listmorefiles 
+* 5-listfilesdigitonly 
+* 6-firstdirectory 
+* 7-movethatfile 
+* 8-firstdelete 
+* 9-firstdirdeletion 
+* 10-back 
+* 11-lists 
+* 12-file_type 
+* 13-symbolic_link 
+* 14-copy_html 
 
 
-### Basic script - advanced  
+### Basic script - advanced :sunglasses: 
 
-16. 100-lets_move 
-17. 101-clean_emacs
-18. 102-tree
-19. 103-commas
-20. 104-holberton.mgc  
+* 100-lets_move 
+* 101-clean_emacs
+* 102-tree
+* 103-commas
+* 104-holberton.mgc  
 
 ## Description :page_facing_up:
 
-### Basic script
+### Basic script :sunglasses:
 
-1. 0-current_working_directory ```Returns the directory where I am standing.``` 
-2. 1-listit 
-3. 2-bring_me_home 
-4. 3-listfiles 
-5. 4-listmorefiles 
-6. 5-listfilesdigitonly 
-7. 6-firstdirectory 
-8. 7-movethatfile 
-9. 8-firstdelete 
-10. 9-firstdirdeletion 
-11. 10-back 
-12. 11-lists 
-13. 12-file_type 
-14. 13-symbolic_link 
-15. 14-copy_html
+* 0-current_working_directory ```Returns the directory where I am standing.``` 
+* 1-listit 
+* 2-bring_me_home 
+* 3-listfiles 
+* 4-listmorefiles 
+* 5-listfilesdigitonly 
+* 6-firstdirectory 
+* 7-movethatfile 
+* 8-firstdelete 
+* 9-firstdirdeletion 
+* 10-back 
+* 11-lists 
+* 12-file_type 
+* 13-symbolic_link 
+* 14-copy_html
 
-### Basic script - advanced  
+### Basic script - advanced :sunglasses: 
 
-16. 100-lets_move 
-17. 101-clean_emacs
-18. 102-tree
-19. 103-commas
-20. 104-holberton.mgc
+* 100-lets_move 
+* 101-clean_emacs
+* 102-tree
+* 103-commas
+* 104-holberton.mgc
 
 
 
