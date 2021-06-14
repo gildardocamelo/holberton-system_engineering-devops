@@ -1,4 +1,4 @@
-# 0x00-shell_basics
+# 0x00. Shell, basics
 
 This <README.md> is a file that lists executables files with basic shell commands.
 
@@ -31,5 +31,4 @@ This <README.md> is a file that lists executables files with basic shell command
 * 104-holberton.mgc ```Create a magic file.```
 
 
-> Full Stack Software Engineering - Holberton School
- 
+> Full Stack Software Engineering - Holberton School 
