@@ -1,4 +1,4 @@
-# holberton-system_engineering-devops
+# Holberton system engineering DevOps
 
 This <README.md> is a file that lists basic script directories in bash console.  
 
