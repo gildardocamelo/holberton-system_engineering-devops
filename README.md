@@ -6,6 +6,6 @@ This <README.md> is a file that lists basic script directories in bash console.
 
 1. 0x00. Shell, basics ```Contains basic shell command scripts.```
 2. 0x01. Shell, permissions ```Contains scripts that grant permissions to directories and files within the shell.```
-3. 0x02. Shell, I/O Redirections and filters ```Contains I / O scripts that redirect and filter files and directories.```
+3. 0x02. Shell, I/O Redirections and filters ```Contains I/O scripts that redirect and filter files and directories.```
 
 > Full Stack Software Engineering - Holberton School 
