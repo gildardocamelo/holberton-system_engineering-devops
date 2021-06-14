@@ -13,7 +13,7 @@ This <README.md> is a file that lists executables files with shell commands on r
 * 4-lastlines ```Displays the last 10 lines of a file.```
 * 5-firstlines ```Displays the first 10 lines of a file.```
 * 6-third_line ```Displays the third line of a file.```
-* 7-file ```Creates a file named exactly \ * \\ '"Holberton School" \' \\ * $ \? \ * \ * \ * \ * \ * :) containing the text Holberton School.```
+* 7-file ```Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School.```
 * 8-cwd_state ```Writes into the file ls_cwd_content the result of the command ls -la.```
 * 9-duplicate_last_line ```Duplicate the last line of a file. ```
 * 10-no_more_js ```Deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.```
@@ -22,13 +22,13 @@ This <README.md> is a file that lists executables files with shell commands on r
 * 13-unique ```Takes a list of words as input and print only the words that appear exactly once and in order.```
 * 14-findthatword ```Displays lines containing the pattern “root” from the a file.```
 * 15-countthatword ```Displays the number of lines that contain the “bin” pattern in the a file.```
-* 16-whatsnext ``` ```
-* 17-hidethisword ``` ```
-* 18-letteronly ``` ```
-* 19-AZ ``` ```
-* 20-hiago ``` ```
-* 21-reverse ``` ```
-* 22-users_and_homes ``` ```
+* 16-whatsnext ``Displays lines containing the "root" pattern and 3 lines after them in a file.````
+* 17-hidethisword ```Displays all lines in a file that do not contain the "bin" pattern.```
+* 18-letteronly ```Displays all lines in a file that begin with a letter. ```
+* 19-AZ ```Replace all characters A and c in the input with Z and e respectively.```
+* 20-hiago ```Remove all letters c and C from the input.```
+* 21-reverse ```Reverse input.```
+* 22-users_and_homes ```Displays all users and their home directories, sorted by users.```
 
 ### Basic script - advanced :sunglasses:
 
@@ -39,4 +39,4 @@ This <README.md> is a file that lists executables files with shell commands on r
 * 104- ``` ```
 
 
-> Full Stack Software Engineering - Holberton School
+> Full Stack Software Engineering - Holberton School 
