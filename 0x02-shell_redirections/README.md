@@ -1,6 +1,6 @@
 # 0x02-shell_redirections
 
-This <README.md> is a file that lists executables files with shell commands on redirects.
+This <README.md> is a file that lists executable files with shell commands on redirection and filtering.
 
 ## Directory list :books: & :page_facing_up:
 
@@ -22,7 +22,7 @@ This <README.md> is a file that lists executables files with shell commands on r
 * 13-unique ```Takes a list of words as input and print only the words that appear exactly once and in order.```
 * 14-findthatword ```Displays lines containing the pattern “root” from the a file.```
 * 15-countthatword ```Displays the number of lines that contain the “bin” pattern in the a file.```
-* 16-whatsnext ``Displays lines containing the "root" pattern and 3 lines after them in a file.````
+* 16-whatsnext ```Displays lines containing the "root" pattern and 3 lines after them in a file.```
 * 17-hidethisword ```Displays all lines in a file that do not contain the "bin" pattern.```
 * 18-letteronly ```Displays all lines in a file that begin with a letter. ```
 * 19-AZ ```Replace all characters A and c in the input with Z and e respectively.```
