@@ -1,4 +1,4 @@
-# 0x00. Shell, basics
+# 0x00. Shell, Basics
 
 This <README.md> is a file that lists executables files with basic shell commands.
 
