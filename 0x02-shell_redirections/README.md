@@ -1,4 +1,4 @@
-# 0x02-shell_redirections
+# 0x02. Shell, I/O Redirections and filters
 
 This <README.md> is a file that lists executable files with shell commands on redirection and filtering.
 
@@ -32,11 +32,10 @@ This <README.md> is a file that lists executable files with shell commands on re
 
 ### Basic script - advanced :sunglasses:
 
-* 100- ``` ```
-* 101- ``` ```
-* 102- ``` ```
-* 103- ``` ```
-* 104- ``` ```
+* 100-empty_casks ```Finds all empty files and directories in the current directory and all sub-directories.```
+* 101-gifs ```Lists all the files with a .gif extension in the current directory and all its sub-directories.```
+* 102-acrostic ```Decodes acrostics that use the first letter of each line.```
+* 103-the_biggest_fan ```Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.```
 
 
 > Full Stack Software Engineering - Holberton School 
