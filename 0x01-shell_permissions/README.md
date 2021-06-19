@@ -35,7 +35,7 @@ working directory.`
  respectively.`
  * 102-if_only `Changes from one owner to another only if it is owned by another
  particular user.`
- * 103-Star_Wars `Will play the Star Wars IV episode in the terminal.
+ * 103-Star_Wars `Will play the Star Wars IV episode in the terminal.`
 
 
 > Full Stack Software Engineering - Holberton School
