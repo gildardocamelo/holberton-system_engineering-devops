@@ -8,7 +8,7 @@ filter using shell commands.
 ### Basic script :monocle_face:
 
 * 0-hello_world `Prints` `“Hello, World”.`
-* 1-confused_smiley `Displays a confused smiley` `\"(Ôo)'.`
+* 1-confused_smiley `Displays a confused smiley` `(Ôo).`
 * 2-hellofile `Displays the contents of a file.`
 * 3-twofiles `Displays the contents of two files at the same time.`
 * 4-lastlines `Displays the last 10 lines of a file.`
