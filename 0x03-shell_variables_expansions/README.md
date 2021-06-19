@@ -3,7 +3,7 @@
 This is a <README.md> that contains a list of executable files that init files,
 variables and expansions using shell commands.
 
-## List :page_facing_up:
+## File List :page_facing_up:
 
 ### Basic script :monocle_face:
 
