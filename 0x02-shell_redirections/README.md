@@ -3,7 +3,7 @@
 This is a <README.md> that contains a list of executable files that redirect and
 filter using shell commands.
 
-## Directory list :page_facing_up:
+## File list :page_facing_up:
 
 ### Basic script :monocle_face:
 
