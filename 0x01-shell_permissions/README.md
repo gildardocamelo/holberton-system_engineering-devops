@@ -3,7 +3,7 @@
 This is a <README.md> that contains executables files that grant permissions to
 directories and files within the shell.
 
-## Directory list :page_facing_up:
+## File list :page_facing_up:
 
 ### Basic script :monocle_face:
 
