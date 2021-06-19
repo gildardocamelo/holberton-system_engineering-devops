@@ -2,7 +2,7 @@
 
 This is a <README.md> that lists the files that contain the basic shell scripts.
 
-## Directory list :page_facing_up:
+## File list :page_facing_up:
 
 ### Basic script :monocle_face:
 
